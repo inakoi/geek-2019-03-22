@@ -1,0 +1,3 @@
+Hello from our very commit!
+
+Привет - это наш самый первый коммит!
